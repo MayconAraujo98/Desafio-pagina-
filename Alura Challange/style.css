@@ -107,25 +107,6 @@ body {
 
 }
 
-/* .titulo-produtos {
-    position:absolute;
-    font-weight: 900;
-    font-size: 2rem;
-    padding: 10px;
-    margin: auto;
-
-}
-
-.sec-produtos {
-    display: flex;
-    padding-top: 4rem;
-    padding-bottom: 5rem;
-}
-
-.sec-produtos , h4 {
-    align-self: stretch;
-} */
-
 
 .product-section__container {
     display: flex;
